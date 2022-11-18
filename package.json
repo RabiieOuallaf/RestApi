@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "Start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabiieOuallaf/RestApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabiieOuallaf/RestApi/issues"
+  },
+  "homepage": "https://github.com/RabiieOuallaf/RestApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
