@@ -12,7 +12,8 @@ app.use(bodyParser.json());
 app.use("/users", router);
 
 app.get("/", (req,res) => {
-    res.end("I love u alina <3 ");
+    
+    res.end("Hello world!");
 });
 
 // Start the server 
